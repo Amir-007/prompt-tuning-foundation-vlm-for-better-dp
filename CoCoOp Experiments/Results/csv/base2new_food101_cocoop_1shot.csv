@@ -1,0 +1,2 @@
+dataset,method,shots,seed,base_acc,new_acc,all_acc,hm,base_train_test_acc
+food101,cocoop,1,1,88.5359477124183,89.31333333333333,83.45874587458746,88.92294153258406,88.5359477124183

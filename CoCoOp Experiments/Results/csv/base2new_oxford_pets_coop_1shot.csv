@@ -1,0 +1,2 @@
+dataset,method,shots,seed,base_acc,new_acc,all_acc,hm,base_train_test_acc
+oxford_pets,coop,1,1,88.6762360446571,95.3579418344519,85.09130553284274,91.89579301296068,88.6762360446571

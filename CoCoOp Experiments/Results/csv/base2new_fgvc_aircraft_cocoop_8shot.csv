@@ -1,0 +1,2 @@
+dataset,method,shots,seed,base_acc,new_acc,all_acc,hm,base_train_test_acc
+fgvc_aircraft,cocoop,8,1,32.41296518607443,30.77384523095381,25.29252925292529,31.5721451210876,32.41296518607443

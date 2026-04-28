@@ -1,0 +1,2 @@
+dataset,method,shots,seed,base_acc,new_acc,all_acc,hm,base_train_test_acc
+ucf101,cocoop,1,1,68.61427094105481,66.79286100594916,60.692572032778216,67.69131575409281,68.61427094105481

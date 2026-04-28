@@ -1,0 +1,2 @@
+dataset,method,shots,seed,base_acc,new_acc,all_acc,hm,base_train_test_acc
+caltech-101,coop,4,1,97.4176888315042,95.85152838427948,94.27991886409737,96.62826290374406,97.4176888315042

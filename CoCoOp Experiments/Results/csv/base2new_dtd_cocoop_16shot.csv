@@ -1,0 +1,2 @@
+dataset,method,shots,seed,base_acc,new_acc,all_acc,hm,base_train_test_acc
+dtd,cocoop,16,1,71.99074074074075,50.84541062801932,47.57683215130024,59.5980700077377,71.99074074074075

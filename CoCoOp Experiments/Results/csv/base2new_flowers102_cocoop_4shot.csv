@@ -1,0 +1,2 @@
+dataset,method,shots,seed,base_acc,new_acc,all_acc,hm,base_train_test_acc
+flowers102,cocoop,4,1,79.86704653371321,73.61702127659575,70.7673568818514,76.61478025507844,79.86704653371321

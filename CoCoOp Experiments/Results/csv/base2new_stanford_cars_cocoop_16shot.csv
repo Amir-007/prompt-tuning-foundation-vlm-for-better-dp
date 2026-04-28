@@ -1,0 +1,2 @@
+dataset,method,shots,seed,base_acc,new_acc,all_acc,hm,base_train_test_acc
+stanford_cars,cocoop,16,1,71.03948025987006,69.32409012131716,66.27285163536874,70.17130325671435,71.03948025987006

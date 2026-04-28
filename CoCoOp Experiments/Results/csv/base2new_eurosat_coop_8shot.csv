@@ -1,0 +1,2 @@
+dataset,method,shots,seed,base_acc,new_acc,all_acc,hm,base_train_test_acc
+eurosat,coop,8,1,85.0952380952381,71.51282051282051,64.07407407407408,77.7150364098481,85.0952380952381
