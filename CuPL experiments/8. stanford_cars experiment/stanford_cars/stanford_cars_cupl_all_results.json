@@ -1,0 +1,44 @@
+{
+  "top1": {
+    "Standard CLIP": {
+      "stanford_cars": 66.34
+    },
+    "CuPL (base)": {
+      "stanford_cars": 63.48
+    },
+    "CuPL (full)": {
+      "stanford_cars": 65.5
+    },
+    "Ensemble": {
+      "stanford_cars": 66.85
+    }
+  },
+  "mpc": {
+    "Standard CLIP": {
+      "stanford_cars": 66.38
+    },
+    "CuPL (base)": {
+      "stanford_cars": 63.27
+    },
+    "CuPL (full)": {
+      "stanford_cars": 65.41
+    },
+    "Ensemble": {
+      "stanford_cars": 66.82
+    }
+  },
+  "top5": {
+    "Standard CLIP": {
+      "stanford_cars": 95.15
+    },
+    "CuPL (base)": {
+      "stanford_cars": 94.72
+    },
+    "CuPL (full)": {
+      "stanford_cars": 94.91
+    },
+    "Ensemble": {
+      "stanford_cars": 95.48
+    }
+  }
+}

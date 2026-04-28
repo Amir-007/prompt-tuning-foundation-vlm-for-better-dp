@@ -1,0 +1,44 @@
+{
+  "top1": {
+    "Standard CLIP": {
+      "fgvc_aircraft": 24.6
+    },
+    "CuPL (base)": {
+      "fgvc_aircraft": 26.06
+    },
+    "CuPL (full)": {
+      "fgvc_aircraft": 24.53
+    },
+    "Ensemble": {
+      "fgvc_aircraft": 25.87
+    }
+  },
+  "mpc": {
+    "Standard CLIP": {
+      "fgvc_aircraft": 24.6
+    },
+    "CuPL (base)": {
+      "fgvc_aircraft": 26.06
+    },
+    "CuPL (full)": {
+      "fgvc_aircraft": 24.53
+    },
+    "Ensemble": {
+      "fgvc_aircraft": 25.87
+    }
+  },
+  "top5": {
+    "Standard CLIP": {
+      "fgvc_aircraft": 60.15
+    },
+    "CuPL (base)": {
+      "fgvc_aircraft": 61.71
+    },
+    "CuPL (full)": {
+      "fgvc_aircraft": 59.52
+    },
+    "Ensemble": {
+      "fgvc_aircraft": 61.91
+    }
+  }
+}

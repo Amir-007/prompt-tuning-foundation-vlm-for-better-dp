@@ -1,0 +1,38 @@
+class,standard,cupl_full,delta
+abyssinian,100.0,95.0,-5.0
+american bulldog,85.0,95.0,10.0
+american pit bull terrier,40.0,35.0,-5.0
+basset hound,100.0,100.0,0.0
+beagle,75.0,95.0,20.0
+bengal,50.0,60.0,10.0
+birman,70.0,80.0,10.0
+bombay,31.58,100.0,68.42
+boxer,95.0,100.0,5.0
+british shorthair,85.0,75.0,-10.0
+chihuahua,80.0,90.0,10.0
+egyptian mau,89.47,78.95,-10.53
+english cocker spaniel,94.74,89.47,-5.26
+english setter,95.0,95.0,0.0
+german shorthaired,100.0,100.0,0.0
+great pyrenees,85.0,100.0,15.0
+havanese,100.0,100.0,0.0
+japanese chin,100.0,100.0,0.0
+keeshond,95.0,95.0,0.0
+leonberger,80.0,80.0,0.0
+maine coon,100.0,90.0,-10.0
+miniature pinscher,100.0,95.0,-5.0
+newfoundland,94.74,100.0,5.26
+persian,85.0,100.0,15.0
+pomeranian,100.0,95.0,-5.0
+pug,100.0,100.0,0.0
+ragdoll,95.0,80.0,-15.0
+russian blue,75.0,85.0,10.0
+saint bernard,100.0,90.0,-10.0
+samoyed,100.0,95.0,-5.0
+scottish terrier,90.0,90.0,0.0
+shiba inu,100.0,100.0,0.0
+siamese,100.0,90.0,-10.0
+sphynx,100.0,100.0,0.0
+staffordshire bull terrier,95.0,95.0,0.0
+wheaten terrier,100.0,95.0,-5.0
+yorkshire terrier,90.0,95.0,5.0

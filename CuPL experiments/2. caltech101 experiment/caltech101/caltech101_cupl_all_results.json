@@ -1,0 +1,44 @@
+{
+  "top1": {
+    "Standard CLIP": {
+      "caltech101": 92.62
+    },
+    "CuPL (base)": {
+      "caltech101": 92.05
+    },
+    "CuPL (full)": {
+      "caltech101": 92.2
+    },
+    "Ensemble": {
+      "caltech101": 93.46
+    }
+  },
+  "mpc": {
+    "Standard CLIP": {
+      "caltech101": 91.2
+    },
+    "CuPL (base)": {
+      "caltech101": 91.31
+    },
+    "CuPL (full)": {
+      "caltech101": 91.43
+    },
+    "Ensemble": {
+      "caltech101": 92.13
+    }
+  },
+  "top5": {
+    "Standard CLIP": {
+      "caltech101": 99.66
+    },
+    "CuPL (base)": {
+      "caltech101": 99.32
+    },
+    "CuPL (full)": {
+      "caltech101": 99.37
+    },
+    "Ensemble": {
+      "caltech101": 99.61
+    }
+  }
+}

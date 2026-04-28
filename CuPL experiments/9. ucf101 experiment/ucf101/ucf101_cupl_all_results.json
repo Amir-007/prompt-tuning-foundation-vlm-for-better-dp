@@ -1,0 +1,44 @@
+{
+  "top1": {
+    "Standard CLIP": {
+      "ucf101": 69.28
+    },
+    "CuPL (base)": {
+      "ucf101": 65.47
+    },
+    "CuPL (full)": {
+      "ucf101": 65.99
+    },
+    "Ensemble": {
+      "ucf101": 68.63
+    }
+  },
+  "mpc": {
+    "Standard CLIP": {
+      "ucf101": 68.91
+    },
+    "CuPL (base)": {
+      "ucf101": 64.96
+    },
+    "CuPL (full)": {
+      "ucf101": 65.52
+    },
+    "Ensemble": {
+      "ucf101": 68.19
+    }
+  },
+  "top5": {
+    "Standard CLIP": {
+      "ucf101": 92.12
+    },
+    "CuPL (base)": {
+      "ucf101": 91.34
+    },
+    "CuPL (full)": {
+      "ucf101": 91.82
+    },
+    "Ensemble": {
+      "ucf101": 92.91
+    }
+  }
+}

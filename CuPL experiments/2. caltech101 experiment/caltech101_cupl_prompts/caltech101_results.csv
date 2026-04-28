@@ -1,0 +1,5 @@
+method,primary_metric,top1_val,top1_test,top1_full,mpc_val,mpc_test,mpc_full,top5_val,top5_test,top5_full
+Standard CLIP,mean_per_class,93.03,92.25,92.62,91.86,90.63,91.2,99.76,99.63,99.66
+CuPL (base),mean_per_class,91.45,92.13,92.05,91.08,91.22,91.31,99.27,99.35,99.32
+CuPL (full),mean_per_class,91.45,92.05,92.2,90.79,91.06,91.43,99.39,99.43,99.37
+Ensemble,mean_per_class,93.33,93.23,93.46,92.22,91.63,92.13,99.76,99.47,99.61

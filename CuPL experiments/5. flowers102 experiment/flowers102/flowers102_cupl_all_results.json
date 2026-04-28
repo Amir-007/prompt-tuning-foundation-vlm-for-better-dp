@@ -1,0 +1,44 @@
+{
+  "top1": {
+    "Standard CLIP": {
+      "flowers102": 70.72
+    },
+    "CuPL (base)": {
+      "flowers102": 68.36
+    },
+    "CuPL (full)": {
+      "flowers102": 69.95
+    },
+    "Ensemble": {
+      "flowers102": 71.02
+    }
+  },
+  "mpc": {
+    "Standard CLIP": {
+      "flowers102": 69.33
+    },
+    "CuPL (base)": {
+      "flowers102": 66.19
+    },
+    "CuPL (full)": {
+      "flowers102": 68.54
+    },
+    "Ensemble": {
+      "flowers102": 69.21
+    }
+  },
+  "top5": {
+    "Standard CLIP": {
+      "flowers102": 85.91
+    },
+    "CuPL (base)": {
+      "flowers102": 86.05
+    },
+    "CuPL (full)": {
+      "flowers102": 85.08
+    },
+    "Ensemble": {
+      "flowers102": 85.5
+    }
+  }
+}

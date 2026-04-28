@@ -1,0 +1,44 @@
+{
+  "top1": {
+    "Standard CLIP": {
+      "oxford_pets": 87.9
+    },
+    "CuPL (base)": {
+      "oxford_pets": 90.98
+    },
+    "CuPL (full)": {
+      "oxford_pets": 90.33
+    },
+    "Ensemble": {
+      "oxford_pets": 90.53
+    }
+  },
+  "mpc": {
+    "Standard CLIP": {
+      "oxford_pets": 87.76
+    },
+    "CuPL (base)": {
+      "oxford_pets": 90.99
+    },
+    "CuPL (full)": {
+      "oxford_pets": 90.33
+    },
+    "Ensemble": {
+      "oxford_pets": 90.53
+    }
+  },
+  "top5": {
+    "Standard CLIP": {
+      "oxford_pets": 99.28
+    },
+    "CuPL (base)": {
+      "oxford_pets": 99.69
+    },
+    "CuPL (full)": {
+      "oxford_pets": 99.61
+    },
+    "Ensemble": {
+      "oxford_pets": 99.56
+    }
+  }
+}

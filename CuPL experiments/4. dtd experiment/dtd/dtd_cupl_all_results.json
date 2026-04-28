@@ -1,0 +1,44 @@
+{
+  "top1": {
+    "Standard CLIP": {
+      "dtd": 44.68
+    },
+    "CuPL (base)": {
+      "dtd": 44.54
+    },
+    "CuPL (full)": {
+      "dtd": 50.55
+    },
+    "Ensemble": {
+      "dtd": 48.21
+    }
+  },
+  "mpc": {
+    "Standard CLIP": {
+      "dtd": 44.68
+    },
+    "CuPL (base)": {
+      "dtd": 44.54
+    },
+    "CuPL (full)": {
+      "dtd": 50.55
+    },
+    "Ensemble": {
+      "dtd": 48.21
+    }
+  },
+  "top5": {
+    "Standard CLIP": {
+      "dtd": 75.35
+    },
+    "CuPL (base)": {
+      "dtd": 70.23
+    },
+    "CuPL (full)": {
+      "dtd": 78.92
+    },
+    "Ensemble": {
+      "dtd": 80.2
+    }
+  }
+}

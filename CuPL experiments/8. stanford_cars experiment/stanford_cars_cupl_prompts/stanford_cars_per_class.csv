@@ -1,0 +1,197 @@
+class,standard,cupl_full,delta
+2000 AM General Hummer SUV,77.78,77.78,0.0
+2012 Acura RL Sedan,66.67,66.67,0.0
+2012 Acura TL Sedan,88.89,44.44,-44.44
+2008 Acura TL Type-S,75.0,75.0,0.0
+2012 Acura TSX Sedan,62.5,62.5,0.0
+2001 Acura Integra Type R,88.89,100.0,11.11
+2012 Acura ZDX Hatchback,25.0,37.5,12.5
+2012 Aston Martin V8 Vantage Convertible,77.78,55.56,-22.22
+2012 Aston Martin V8 Vantage Coupe,62.5,62.5,0.0
+2012 Aston Martin Virage Convertible,57.14,71.43,14.29
+2012 Aston Martin Virage Coupe,75.0,87.5,12.5
+2008 Audi RS 4 Convertible,57.14,42.86,-14.29
+2012 Audi A5 Coupe,75.0,75.0,0.0
+2012 Audi TTS Coupe,33.33,55.56,22.22
+2012 Audi R8 Coupe,100.0,100.0,0.0
+1994 Audi V8 Sedan,66.67,55.56,-11.11
+1994 Audi 100 Sedan,0.0,0.0,0.0
+1994 Audi 100 Wagon,11.11,22.22,11.11
+2011 Audi TT Hatchback,25.0,75.0,50.0
+2011 Audi S6 Sedan,66.67,22.22,-44.44
+2012 Audi S5 Convertible,87.5,100.0,12.5
+2012 Audi S5 Coupe,66.67,66.67,0.0
+2012 Audi S4 Sedan,62.5,50.0,-12.5
+2007 Audi S4 Sedan,77.78,100.0,22.22
+2012 Audi TT RS Coupe,75.0,25.0,-50.0
+2012 BMW ActiveHybrid 5 Sedan,42.86,0.0,-42.86
+2012 BMW 1 Series Convertible,42.86,57.14,14.29
+2012 BMW 1 Series Coupe,50.0,50.0,0.0
+2012 BMW 3 Series Sedan,55.56,66.67,11.11
+2012 BMW 3 Series Wagon,37.5,75.0,37.5
+2007 BMW 6 Series Convertible,55.56,55.56,0.0
+2007 BMW X5 SUV,37.5,50.0,12.5
+2012 BMW X6 SUV,87.5,87.5,0.0
+2012 BMW M3 Coupe,88.89,77.78,-11.11
+2010 BMW M5 Sedan,25.0,12.5,-12.5
+2010 BMW M6 Convertible,25.0,25.0,0.0
+2012 BMW X3 SUV,100.0,100.0,0.0
+2012 BMW Z4 Convertible,87.5,75.0,-12.5
+2012 Bentley Continental Supersports Conv. Convertible,85.71,71.43,-14.29
+2009 Bentley Arnage Sedan,100.0,100.0,0.0
+2011 Bentley Mulsanne Sedan,71.43,57.14,-14.29
+2012 Bentley Continental GT Coupe,57.14,42.86,-14.29
+2007 Bentley Continental GT Coupe,55.56,77.78,22.22
+2007 Bentley Continental Flying Spur Sedan,44.44,55.56,11.11
+2009 Bugatti Veyron 16.4 Convertible,71.43,57.14,-14.29
+2009 Bugatti Veyron 16.4 Coupe,77.78,0.0,-77.78
+2012 Buick Regal GS,71.43,85.71,14.29
+2007 Buick Rainier SUV,22.22,44.44,22.22
+2012 Buick Verano Sedan,50.0,62.5,12.5
+2012 Buick Enclave SUV,100.0,100.0,0.0
+2012 Cadillac CTS-V Sedan,100.0,100.0,0.0
+2012 Cadillac SRX SUV,100.0,100.0,0.0
+2007 Cadillac Escalade EXT Crew Cab,66.67,77.78,11.11
+2012 Chevrolet Silverado 1500 Hybrid Crew Cab,37.5,37.5,0.0
+2012 Chevrolet Corvette Convertible,62.5,75.0,12.5
+2012 Chevrolet Corvette ZR1,33.33,44.44,11.11
+2007 Chevrolet Corvette Ron Fellows Edition Z06,62.5,12.5,-50.0
+2012 Chevrolet Traverse SUV,100.0,88.89,-11.11
+2012 Chevrolet Camaro Convertible,100.0,100.0,0.0
+2010 Chevrolet HHR SS,0.0,14.29,14.29
+2007 Chevrolet Impala Sedan,33.33,33.33,0.0
+2012 Chevrolet Tahoe Hybrid SUV,14.29,0.0,-14.29
+2012 Chevrolet Sonic Sedan,88.89,77.78,-11.11
+2007 Chevrolet Express Cargo Van,16.67,16.67,0.0
+2012 Chevrolet Avalanche Crew Cab,88.89,88.89,0.0
+2010 Chevrolet Cobalt SS,50.0,50.0,0.0
+2010 Chevrolet Malibu Hybrid Sedan,25.0,0.0,-25.0
+2009 Chevrolet TrailBlazer SS,62.5,12.5,-50.0
+2012 Chevrolet Silverado 2500HD Regular Cab,62.5,50.0,-12.5
+2007 Chevrolet Silverado 1500 Classic Extended Cab,33.33,44.44,11.11
+2007 Chevrolet Express Van,71.43,28.57,-42.86
+2007 Chevrolet Monte Carlo Coupe,66.67,66.67,0.0
+2007 Chevrolet Malibu Sedan,66.67,66.67,0.0
+2012 Chevrolet Silverado 1500 Extended Cab,0.0,11.11,11.11
+2012 Chevrolet Silverado 1500 Regular Cab,0.0,11.11,11.11
+2009 Chrysler Aspen SUV,55.56,55.56,0.0
+2010 Chrysler Sebring Convertible,100.0,100.0,0.0
+2012 Chrysler Town and Country Minivan,75.0,75.0,0.0
+2010 Chrysler 300 SRT-8,50.0,80.0,30.0
+2008 Chrysler Crossfire Convertible,77.78,88.89,11.11
+2008 Chrysler PT Cruiser Convertible,100.0,100.0,0.0
+2002 Daewoo Nubira Wagon,100.0,100.0,0.0
+2012 Dodge Caliber Wagon,62.5,37.5,-25.0
+2007 Dodge Caliber Wagon,25.0,62.5,37.5
+1997 Dodge Caravan Minivan,66.67,88.89,22.22
+2010 Dodge Ram Pickup 3500 Crew Cab,22.22,11.11,-11.11
+2009 Dodge Ram Pickup 3500 Quad Cab,33.33,88.89,55.56
+2009 Dodge Sprinter Cargo Van,12.5,87.5,75.0
+2012 Dodge Journey SUV,100.0,88.89,-11.11
+2010 Dodge Dakota Crew Cab,25.0,37.5,12.5
+2007 Dodge Dakota Club Cab,0.0,0.0,0.0
+2008 Dodge Magnum Wagon,87.5,87.5,0.0
+2011 Dodge Challenger SRT8,87.5,87.5,0.0
+2012 Dodge Durango SUV,88.89,100.0,11.11
+2007 Dodge Durango SUV,33.33,0.0,-33.33
+2012 Dodge Charger Sedan,37.5,50.0,12.5
+2009 Dodge Charger SRT-8,87.5,75.0,-12.5
+1998 Eagle Talon Hatchback,33.33,100.0,66.67
+2012 FIAT 500 Abarth,100.0,100.0,0.0
+2012 FIAT 500 Convertible,100.0,100.0,0.0
+2012 Ferrari FF Coupe,100.0,100.0,0.0
+2012 Ferrari California Convertible,75.0,75.0,0.0
+2012 Ferrari 458 Italia Convertible,75.0,75.0,0.0
+2012 Ferrari 458 Italia Coupe,44.44,44.44,0.0
+2012 Fisker Karma Sedan,100.0,100.0,0.0
+2012 Ford F-450 Super Duty Crew Cab,87.5,75.0,-12.5
+2007 Ford Mustang Convertible,100.0,100.0,0.0
+2007 Ford Freestar Minivan,77.78,77.78,0.0
+2009 Ford Expedition EL SUV,88.89,100.0,11.11
+2012 Ford Edge SUV,100.0,77.78,-22.22
+2011 Ford Ranger SuperCab,75.0,25.0,-50.0
+2006 Ford GT Coupe,88.89,88.89,0.0
+2012 Ford F-150 Regular Cab,66.67,77.78,11.11
+2007 Ford F-150 Regular Cab,77.78,66.67,-11.11
+2007 Ford Focus Sedan,88.89,77.78,-11.11
+2012 Ford E-Series Wagon Van,12.5,0.0,-12.5
+2012 Ford Fiesta Sedan,88.89,100.0,11.11
+2012 GMC Terrain SUV,75.0,62.5,-12.5
+2012 GMC Savana Van,7.14,7.14,0.0
+2012 GMC Yukon Hybrid SUV,88.89,88.89,0.0
+2012 GMC Acadia SUV,88.89,55.56,-33.33
+2012 GMC Canyon Extended Cab,25.0,12.5,-12.5
+1993 Geo Metro Convertible,88.89,88.89,0.0
+2010 HUMMER H3T Crew Cab,37.5,25.0,-12.5
+2009 HUMMER H2 SUT Crew Cab,0.0,44.44,44.44
+2012 Honda Odyssey Minivan,87.5,87.5,0.0
+2007 Honda Odyssey Minivan,0.0,50.0,50.0
+2012 Honda Accord Coupe,75.0,87.5,12.5
+2012 Honda Accord Sedan,25.0,25.0,0.0
+2012 Hyundai Veloster Hatchback,100.0,62.5,-37.5
+2012 Hyundai Santa Fe SUV,75.0,75.0,0.0
+2012 Hyundai Tucson SUV,55.56,66.67,11.11
+2012 Hyundai Veracruz SUV,75.0,12.5,-62.5
+2012 Hyundai Sonata Hybrid Sedan,28.57,14.29,-14.29
+2007 Hyundai Elantra Sedan,37.5,62.5,25.0
+2012 Hyundai Accent Sedan,40.0,40.0,0.0
+2012 Hyundai Genesis Sedan,77.78,66.67,-11.11
+2012 Hyundai Sonata Sedan,25.0,12.5,-12.5
+2012 Hyundai Elantra Touring Hatchback,33.33,22.22,-11.11
+2012 Hyundai Azera Sedan,25.0,25.0,0.0
+2012 Infiniti G Coupe IPL,85.71,100.0,14.29
+2011 Infiniti QX56 SUV,100.0,100.0,0.0
+2008 Isuzu Ascender SUV,62.5,37.5,-25.0
+2012 Jaguar XK XKR,77.78,77.78,0.0
+2012 Jeep Patriot SUV,88.89,88.89,0.0
+2012 Jeep Wrangler SUV,100.0,100.0,0.0
+2012 Jeep Liberty SUV,44.44,44.44,0.0
+2012 Jeep Grand Cherokee SUV,66.67,55.56,-11.11
+2012 Jeep Compass SUV,88.89,77.78,-11.11
+2008 Lamborghini Reventon Coupe,100.0,100.0,0.0
+2012 Lamborghini Aventador Coupe,100.0,100.0,0.0
+2012 Lamborghini Gallardo LP 570-4 Superleggera,85.71,85.71,0.0
+2001 Lamborghini Diablo Coupe,100.0,100.0,0.0
+2012 Land Rover Range Rover SUV,66.67,55.56,-11.11
+2012 Land Rover LR2 SUV,77.78,33.33,-44.44
+2011 Lincoln Town Car Sedan,100.0,100.0,0.0
+2012 MINI Cooper Roadster Convertible,100.0,100.0,0.0
+2012 Maybach Landaulet Convertible,50.0,50.0,0.0
+2011 Mazda Tribute SUV,57.14,57.14,0.0
+2012 McLaren MP4-12C Coupe,100.0,100.0,0.0
+1993 Mercedes-Benz 300-Class Convertible,80.0,90.0,10.0
+2012 Mercedes-Benz C-Class Sedan,33.33,11.11,-22.22
+2009 Mercedes-Benz SL-Class Coupe,100.0,100.0,0.0
+2012 Mercedes-Benz E-Class Sedan,0.0,11.11,11.11
+2012 Mercedes-Benz S-Class Sedan,88.89,100.0,11.11
+2012 Mercedes-Benz Sprinter Van,100.0,100.0,0.0
+2012 Mitsubishi Lancer Sedan,90.0,90.0,0.0
+2012 Nissan Leaf Hatchback,100.0,100.0,0.0
+2012 Nissan NV Passenger Van,25.0,25.0,0.0
+2012 Nissan Juke Hatchback,100.0,100.0,0.0
+1998 Nissan 240SX Coupe,77.78,66.67,-11.11
+1999 Plymouth Neon Coupe,88.89,44.44,-44.44
+2012 Porsche Panamera Sedan,100.0,100.0,0.0
+2012 Ram C/V Cargo Van Minivan,0.0,50.0,50.0
+2012 Rolls-Royce Phantom Drophead Coupe Convertible,100.0,83.33,-16.67
+2012 Rolls-Royce Ghost Sedan,25.0,25.0,0.0
+2012 Rolls-Royce Phantom Sedan,88.89,100.0,11.11
+2012 Scion xD Hatchback,62.5,62.5,0.0
+2009 Spyker C8 Convertible,77.78,44.44,-33.33
+2009 Spyker C8 Coupe,55.56,88.89,33.33
+2007 Suzuki Aerio Sedan,50.0,62.5,12.5
+2012 Suzuki Kizashi Sedan,100.0,88.89,-11.11
+2012 Suzuki SX4 Hatchback,62.5,50.0,-12.5
+2012 Suzuki SX4 Sedan,37.5,12.5,-25.0
+2012 Tesla Model S Sedan,100.0,100.0,0.0
+2012 Toyota Sequoia SUV,100.0,100.0,0.0
+2012 Toyota Camry Sedan,66.67,66.67,0.0
+2012 Toyota Corolla Sedan,55.56,66.67,11.11
+2012 Toyota 4Runner SUV,100.0,100.0,0.0
+2012 Volkswagen Golf Hatchback,88.89,100.0,11.11
+1991 Volkswagen Golf Hatchback,88.89,100.0,11.11
+2012 Volkswagen Beetle Hatchback,100.0,100.0,0.0
+2012 Volvo C30 Hatchback,100.0,100.0,0.0
+1993 Volvo 240 Sedan,100.0,100.0,0.0
+2007 Volvo XC90 SUV,100.0,100.0,0.0
+2012 smart fortwo Convertible,100.0,100.0,0.0

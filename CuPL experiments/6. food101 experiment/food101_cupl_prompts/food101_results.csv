@@ -1,0 +1,5 @@
+method,primary_metric,top1_val,top1_test,top1_full,mpc_val,mpc_test,mpc_full,top5_val,top5_test,top5_full
+Standard CLIP,top1,85.81,85.86,85.99,85.81,85.86,85.99,97.59,97.76,97.69
+CuPL (base),top1,84.84,85.02,85.11,84.84,85.02,85.11,96.89,97.07,97.04
+CuPL (full),top1,84.89,85.02,85.15,84.89,85.02,85.15,96.99,97.35,97.25
+Ensemble,top1,86.12,86.41,86.45,86.12,86.41,86.45,97.62,97.8,97.73

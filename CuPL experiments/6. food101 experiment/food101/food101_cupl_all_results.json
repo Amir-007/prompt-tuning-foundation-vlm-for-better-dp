@@ -1,0 +1,44 @@
+{
+  "top1": {
+    "Standard CLIP": {
+      "food101": 85.99
+    },
+    "CuPL (base)": {
+      "food101": 85.11
+    },
+    "CuPL (full)": {
+      "food101": 85.15
+    },
+    "Ensemble": {
+      "food101": 86.45
+    }
+  },
+  "mpc": {
+    "Standard CLIP": {
+      "food101": 85.99
+    },
+    "CuPL (base)": {
+      "food101": 85.11
+    },
+    "CuPL (full)": {
+      "food101": 85.15
+    },
+    "Ensemble": {
+      "food101": 86.45
+    }
+  },
+  "top5": {
+    "Standard CLIP": {
+      "food101": 97.69
+    },
+    "CuPL (base)": {
+      "food101": 97.04
+    },
+    "CuPL (full)": {
+      "food101": 97.25
+    },
+    "Ensemble": {
+      "food101": 97.73
+    }
+  }
+}
