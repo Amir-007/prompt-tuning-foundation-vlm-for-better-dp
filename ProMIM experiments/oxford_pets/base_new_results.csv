@@ -1,0 +1,17 @@
+dataset,shots,method,base,new,H
+oxford_pets,1,CLIP,90.6117,96.9914,93.6931
+oxford_pets,1,CoCoOp,93.2141,97.1998,95.1652
+oxford_pets,1,ProMIM_MIM_only,94.2709,97.1471,95.6874
+oxford_pets,1,ProMIM_full,93.5467,97.5187,95.4915
+oxford_pets,4,CLIP,90.6117,96.9914,93.6931
+oxford_pets,4,CoCoOp,93.4162,94.3587,93.8851
+oxford_pets,4,ProMIM_MIM_only,94.2723,96.6229,95.4331
+oxford_pets,4,ProMIM_full,94.6536,97.0445,95.8341
+oxford_pets,8,CLIP,90.6117,96.9914,93.6931
+oxford_pets,8,CoCoOp,94.3273,97.5747,95.9235
+oxford_pets,8,ProMIM_MIM_only,94.041,94.5673,94.3034
+oxford_pets,8,ProMIM_full,95.0007,96.3603,95.6757
+oxford_pets,16,CLIP,90.6117,96.9914,93.6931
+oxford_pets,16,CoCoOp,94.2316,97.681,95.9253
+oxford_pets,16,ProMIM_MIM_only,95.1234,93.2079,94.1559
+oxford_pets,16,ProMIM_full,94.6743,96.0956,95.3797

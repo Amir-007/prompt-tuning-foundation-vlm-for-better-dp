@@ -1,0 +1,17 @@
+dataset,shots,method,base,new,H
+eurosat,1,CLIP,57.0238,63.8974,60.2653
+eurosat,1,CoCoOp,63.5,65.8205,64.6394
+eurosat,1,ProMIM_MIM_only,76.9048,62.4103,68.9035
+eurosat,1,ProMIM_full,75.7619,71.1026,73.3583
+eurosat,4,CLIP,57.0238,63.8974,60.2653
+eurosat,4,CoCoOp,72.5714,55.8974,63.1524
+eurosat,4,ProMIM_MIM_only,78.881,58.7179,67.3222
+eurosat,4,ProMIM_full,79.3571,74.6923,76.9541
+eurosat,8,CLIP,57.0238,63.8974,60.2653
+eurosat,8,CoCoOp,86.7143,29.4359,43.9519
+eurosat,8,ProMIM_MIM_only,85.0476,65.4615,73.9802
+eurosat,8,ProMIM_full,84.3571,64.3077,72.9804
+eurosat,16,CLIP,57.0238,63.8974,60.2653
+eurosat,16,CoCoOp,84.4762,27.3333,41.3027
+eurosat,16,ProMIM_MIM_only,87.8095,48.6923,62.646
+eurosat,16,ProMIM_full,81.0714,73.0513,76.8527

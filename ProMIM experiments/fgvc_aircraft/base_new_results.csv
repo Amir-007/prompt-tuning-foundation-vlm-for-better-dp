@@ -1,0 +1,17 @@
+dataset,shots,method,base,new,H
+fgvc_aircraft,1,CLIP,27.5615,35.7647,31.1318
+fgvc_aircraft,1,CoCoOp,10.2941,2.205,3.632
+fgvc_aircraft,1,ProMIM_MIM_only,10.7397,2.533,4.0992
+fgvc_aircraft,1,ProMIM_full,11.5401,4.8592,6.8388
+fgvc_aircraft,4,CLIP,27.5615,35.7647,31.1318
+fgvc_aircraft,4,CoCoOp,17.5989,6.893,9.9061
+fgvc_aircraft,4,ProMIM_MIM_only,16.4332,3.025,5.1094
+fgvc_aircraft,4,ProMIM_full,33.303,32.7594,33.029
+fgvc_aircraft,8,CLIP,27.5615,35.7647,31.1318
+fgvc_aircraft,8,CoCoOp,23.8128,2.7291,4.8969
+fgvc_aircraft,8,ProMIM_MIM_only,23.615,6.9198,10.7032
+fgvc_aircraft,8,ProMIM_full,31.9055,26.5544,28.985
+fgvc_aircraft,16,CLIP,27.5615,35.7647,31.1318
+fgvc_aircraft,16,CoCoOp,26.3886,5.2959,8.8214
+fgvc_aircraft,16,ProMIM_MIM_only,25.3351,6.205,9.9685
+fgvc_aircraft,16,ProMIM_full,33.5775,30.9447,32.2074

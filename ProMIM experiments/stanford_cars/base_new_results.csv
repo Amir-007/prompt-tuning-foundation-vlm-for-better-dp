@@ -1,0 +1,17 @@
+dataset,shots,method,base,new,H
+stanford_cars,1,CLIP,67.2435,76.1261,71.4097
+stanford_cars,1,CoCoOp,69.1224,75.3003,72.0792
+stanford_cars,1,ProMIM_MIM_only,68.3066,75.8509,71.8813
+stanford_cars,1,ProMIM_full,67.8121,76.026,71.6845
+stanford_cars,4,CLIP,67.2435,76.1261,71.4097
+stanford_cars,4,CoCoOp,71.3473,75.8759,73.542
+stanford_cars,4,ProMIM_MIM_only,71.026,73.3233,72.1564
+stanford_cars,4,ProMIM_full,69.9876,75.5506,72.6628
+stanford_cars,8,CLIP,67.2435,76.1261,71.4097
+stanford_cars,8,CoCoOp,72.089,71.6717,71.8797
+stanford_cars,8,ProMIM_MIM_only,72.4104,74.7497,73.5615
+stanford_cars,8,ProMIM_full,70.1854,76.001,72.9775
+stanford_cars,16,CLIP,67.2435,76.1261,71.4097
+stanford_cars,16,CoCoOp,72.0643,72.6226,72.3424
+stanford_cars,16,ProMIM_MIM_only,74.0667,69.9199,71.9336
+stanford_cars,16,ProMIM_full,69.7404,76.2763,72.8621
