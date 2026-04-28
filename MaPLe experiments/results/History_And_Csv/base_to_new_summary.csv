@@ -1,0 +1,10 @@
+dataset,base_acc_mean,new_acc_mean,h_mean_mean
+caltech101,97.89,92.79,95.28
+dtd,82.73,48.84,61.42
+eurosat,94.54,68.69,79.57
+fgvcaircraft,47.99,18.02,26.2
+flowers102,96.7,79.15,87.05
+food101,90.83,89.31,90.06
+oxfordpets,94.62,91.45,93.01
+stanfordcars,83.24,73.18,77.89
+ucf101,85.78,84.26,85.02
